@@ -36,7 +36,7 @@ nav ul li a{
    margin-bottom: 10px;
 }
 
-.btn-color:hover{
+.btn-color:focus{
     background: rgba(138, 83, 115, 0.746);
 }
 
